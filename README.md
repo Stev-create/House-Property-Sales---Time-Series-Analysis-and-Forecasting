@@ -24,13 +24,17 @@ Pada ARIMA tidak terlalu terlihat peramalan yang signifikan, mengingat hasilnya 
 
 ![GitHub Logo](/images/4.png)
 
-Itu kenapa pada ARIMA punya Mean Absolute Percentage Error (MAPE) yang sangat besar. Sedangkan SARIMA memiliki MAPE yang kecil hanya sekitar 4% dan ini hasilnya:
+Itu kenapa pada ARIMA punya <b>Mean Absolute Percentage Error (MAPE)</b> yang sangat besar. Sedangkan SARIMA memiliki MAPE yang kecil hanya sekitar 4% dan ini hasilnya:
 
 ![GitHub Logo](/images/6.png)
+
+Dan untuk diagnostic modelnya diperlihatkan di notebook. 
 
 ### Predictions
 
 Saya mencoba memprediksi dalam jangka waktu 1 tahun menggunakan SARIMA, yang dimana dia adalah model yang lebih baik daripada ARIMA dalam kasus ini
+
+![GitHub Logo](/images/pred.png)
 
 
 
