@@ -8,9 +8,17 @@ Project ini menggunakan dua model yaitu ARIMA dan SARIMA model, kemudian model t
 
 ## Results
 
+### Dataset
+
 ![GitHub Logo](/images/1.png)
+
+### Splitting Dataset 
+
 ![GitHub Logo](/images/2.png)
 ![GitHub Logo](/images/3.png)
+
+### ARIMA dan SARIMA 
+
 ![GitHub Logo](/images/4.png)
 ![GitHub Logo](/images/5.png)
 
