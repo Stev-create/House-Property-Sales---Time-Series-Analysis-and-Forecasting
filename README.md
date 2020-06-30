@@ -28,7 +28,7 @@ Itu kenapa pada ARIMA punya <b>Mean Absolute Percentage Error (MAPE)</b> yang sa
 
 ![GitHub Logo](/images/6.png)
 
-Dan untuk diagnostic modelnya diperlihatkan di notebook. 
+Dan untuk diagnostic modelnya sudah diperlihatkan di notebook. 
 
 ### Predictions
 
