@@ -4,7 +4,7 @@
 
 ## Overview
 
-Project ini menggunakan dua model yaitu ARIMA dan SARIMA model, kemudian model terbaik dipilih berdasarkan akurasi terbaik atau Mean Absolute Percentage Error (MAPE) terendah. 
+Project ini menggunakan dua model yaitu <b>ARIMA dan SARIMA model</b>, kemudian model terbaik dipilih berdasarkan <b>akurasi terbaik atau Mean Absolute Percentage Error (MAPE) terendah.</b>
 
 ## Results
 
