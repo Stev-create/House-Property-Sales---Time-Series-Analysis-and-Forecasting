@@ -15,12 +15,23 @@ Project ini menggunakan dua model yaitu ARIMA dan SARIMA model, kemudian model t
 ### Splitting Dataset 
 
 ![GitHub Logo](/images/2.png)
+
 ![GitHub Logo](/images/3.png)
 
 ### ARIMA dan SARIMA 
 
+Pada ARIMA tidak terlalu terlihat peramalan yang signifikan, mengingat hasilnya hanya memberi kita garis lurus:
+
 ![GitHub Logo](/images/4.png)
-![GitHub Logo](/images/5.png)
+
+Itu kenapa pada ARIMA punya Mean Absolute Percentage Error (MAPE) yang sangat besar. Sedangkan SARIMA memiliki MAPE yang kecil hanya sekitar 4% dan ini hasilnya:
+
+![GitHub Logo](/images/6.png)
+
+### Predictions
+
+Saya mencoba memprediksi dalam jangka waktu 1 tahun menggunakan SARIMA, yang dimana dia adalah model yang lebih baik daripada ARIMA dalam kasus ini
+
 
 
 
