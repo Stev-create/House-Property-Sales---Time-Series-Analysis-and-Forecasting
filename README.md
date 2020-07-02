@@ -4,9 +4,13 @@
 
 ## Overview
 
-Project ini menggunakan dua model yaitu <b>ARIMA dan SARIMA model</b>, kemudian model terbaik dipilih berdasarkan <b>akurasi terbaik atau Mean Absolute Percentage Error (MAPE) terendah.</b>
+Project ini menggunakan dua model yaitu <b>ARIMA dan SARIMA model</b>, kemudian model terbaik dipilih berdasarkan <b>akurasi terbaik atau Mean Absolute Percentage Error (MAPE) terendah.</b> Project ini juga melakukkan Adfuller test dan menunjukkan autocorellation plot dan partial autocorrelation plot untuk original time-series, deseasonal time-series, dan time-series yang telah di-differencing. 
 
 ## Results
+
+### Bussiness Insight
+
+Dari project ini, dapat disimpulkan bahwa rata-rata harga rumah terus meninggi dengan berjalannya waktu. Pada bagian model. SARIMA lebih baik daripada ARIMA dalam memprediksi time series ini, yang dapat diartikan bahwa komponen seasonal cukup penting dalam memprediksi rata-rata harga rumah. 
 
 ### Dataset
 
@@ -15,6 +19,8 @@ Project ini menggunakan dua model yaitu <b>ARIMA dan SARIMA model</b>, kemudian 
 #### Time series decomposition
 
 ![GitHub Logo](/images/7.png)
+
+Terlihat dari komponen trendnya, bahwa rata-rata harga rumah terus meninggi seiringnya berjalan dengan waktu. Dan terdapat pola di komponen seasonal setiap tahunnya. 
 
 
 ### Splitting Dataset 
@@ -25,9 +31,9 @@ Project ini menggunakan dua model yaitu <b>ARIMA dan SARIMA model</b>, kemudian 
 
 #### Deseasonal Time Series
 
-Untuk melihat autocorrelation plot dan partial autocorrelation plotnya dapat dilihat di [notebook ini](https://github.com/Stev-create/Bank-Telemarketing-Analysis---ML-Classification/blob/master/notebook/1.%20Data%20cleaning%20and%20exploratory%20analysis.ipynb)
-
 ![GitHub Logo](/images/3.png)
+
+Untuk melihat autocorrelation plot dan partial autocorrelation plotnya dapat dilihat di [notebook ini](https://github.com/Stev-create/House-Property-Sales---Time-Series-Analysis-and-Forecasting/blob/master/House%20Property%20Sales.ipynb)
 
 ### ARIMA dan SARIMA 
 
