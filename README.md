@@ -14,7 +14,11 @@ Project ini menggunakan dua model yaitu <b>ARIMA dan SARIMA model</b>, kemudian 
 
 ### Splitting Dataset 
 
+## Original Time Series
+
 ![GitHub Logo](/images/2.png)
+
+## Deseasonal Time Series
 
 ![GitHub Logo](/images/3.png)
 
