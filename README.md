@@ -10,7 +10,7 @@ Project ini menggunakan dua model yaitu <b>ARIMA dan SARIMA model</b>, kemudian 
 
 ### Bussiness Insight
 
-Dari project ini, dapat disimpulkan bahwa rata-rata harga rumah terus meninggi dengan berjalannya waktu. Pada bagian model. SARIMA lebih baik daripada ARIMA dalam memprediksi time series ini, yang dapat diartikan bahwa komponen seasonal cukup penting dalam memprediksi rata-rata harga rumah. Untuk singkatnya dapat dilihat di bawah ini. Sedangkan untuk lengkapnya dapat dilihat di [notebook ini](https://github.com/Stev-create/House-Property-Sales---Time-Series-Analysis-and-Forecasting/blob/master/House%20Property%20Sales.ipynb).
+Dari project ini, dapat disimpulkan bahwa rata-rata harga rumah terus meninggi dengan berjalannya waktu. Pada bagian model. SARIMA lebih baik daripada ARIMA dalam memprediksi time series ini, yang dapat diartikan bahwa komponen seasonal cukup penting dalam memprediksi rata-rata harga rumah. Untuk ringkasan hasilnya dapat dilihat di bawah ini, sedangkan untuk lengkapnya dapat dilihat di [notebook ini](https://github.com/Stev-create/House-Property-Sales---Time-Series-Analysis-and-Forecasting/blob/master/House%20Property%20Sales.ipynb).
 
 ### Dataset
 
