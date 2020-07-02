@@ -42,7 +42,7 @@ Dan untuk diagnostic modelnya sudah diperlihatkan di notebook.
 
 ### Predictions
 
-Saya mencoba memprediksi dalam jangka waktu 1 tahun menggunakan SARIMA (Yang dimana ini adalah model terbaik yang dimiliki), yang dimana dia adalah model yang lebih baik daripada ARIMA dalam kasus ini
+Saya mencoba memprediksi dalam jangka waktu 1 tahun menggunakan SARIMA (Yang dimana SARIMA adalah model yang lebih baik daripada ARIMA dalam kasus ini).
 
 ![GitHub Logo](/images/pred.png)
 
