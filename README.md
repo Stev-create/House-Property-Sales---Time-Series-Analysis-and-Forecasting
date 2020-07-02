@@ -14,7 +14,6 @@ Project ini menggunakan dua model yaitu <b>ARIMA dan SARIMA model</b>, kemudian 
 
 #### Time series decomposition
 
-
 ![GitHub Logo](/images/7.png)
 
 
@@ -25,6 +24,8 @@ Project ini menggunakan dua model yaitu <b>ARIMA dan SARIMA model</b>, kemudian 
 ![GitHub Logo](/images/2.png)
 
 #### Deseasonal Time Series
+
+Untuk melihat autocorrelation plot dan partial autocorrelation plotnya dapat dilihat di [notebook ini](https://github.com/Stev-create/Bank-Telemarketing-Analysis---ML-Classification/blob/master/notebook/1.%20Data%20cleaning%20and%20exploratory%20analysis.ipynb)
 
 ![GitHub Logo](/images/3.png)
 
