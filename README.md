@@ -16,6 +16,11 @@ Dari project ini, dapat disimpulkan bahwa rata-rata harga rumah terus meninggi d
 
 ![GitHub Logo](/images/1.png)
 
+![GitHub Logo](/images/10.png)
+
+![GitHub Logo](/images/11.png)
+
+
 #### Time series decomposition
 
 ![GitHub Logo](/images/7.png)
