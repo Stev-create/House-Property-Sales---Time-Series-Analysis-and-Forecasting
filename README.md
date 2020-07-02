@@ -15,7 +15,7 @@ Project ini menggunakan dua model yaitu <b>ARIMA dan SARIMA model</b>, kemudian 
 #### Time series decomposition
 
 
-![GitHub Logo](/images/6.png)
+![GitHub Logo](/images/7.png)
 
 
 ### Splitting Dataset 
