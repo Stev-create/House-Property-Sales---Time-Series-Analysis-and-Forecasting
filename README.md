@@ -6,7 +6,7 @@
 
 Project ini menggunakan <b>ARIMA dan SARIMA model</b> untuk meramalkan rata-rata harga rumah satu tahun ke depan. Model terbaik dipilih berdasarkan <b>akurasi terbaik atau Mean Absolute Percentage Error (MAPE) terendah.</b> Project ini juga melakukkan Adfuller test dan menunjukkan autocorellation plot dan partial autocorrelation plot untuk original time-series, deseasonal time-series, dan time-series yang telah di-differencing. 
 
-## Results
+## Summary
 
 ### Bussiness Insight
 
