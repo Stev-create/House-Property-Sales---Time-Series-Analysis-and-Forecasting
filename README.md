@@ -59,6 +59,5 @@ Saya mencoba memprediksi dalam jangka waktu 1 tahun menggunakan SARIMA (Yang dim
 ![GitHub Logo](/images/pred.png)
 
 
-
-
+### Thank You
 
